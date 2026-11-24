@@ -15,8 +15,6 @@
 ## 📦 仓库包含
 ✅ 原理图工程 + PCB Layout
 ✅ BOM物料清单
-✅ STM32CubeMX .ioc 配置文件
-✅ HAL库FOC固件：SVPWM、Clarke/Park变换、电流PI闭环
 ✅ 调试说明、踩坑文档
 
 ## 🛠️ 开发环境
